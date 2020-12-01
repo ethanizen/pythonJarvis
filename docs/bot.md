@@ -6,6 +6,7 @@ I can do lots of cool things, such as:
 $news           Get Cyber Security related news
 $cve            Search CVEs by year, program, description, etc
 $tldr           Search the tldr pages for shortened man-pages
+$password       Analyze the strength of a password
 
 You can find out more about any of these features by typing:
 
